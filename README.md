@@ -1,2 +1,2 @@
 # projectos_de_python
-mis proyectos de python hechos hasta ahora 
+mis projectos de python hechos hasta ahora
